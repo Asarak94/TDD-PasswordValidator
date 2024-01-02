@@ -36,3 +36,7 @@ If the user password does not match the above criteria the program must print th
 → There must be at least 2 special characters.
 
 → There must be at least 6 alphabetic characters.
+
+You can find further information about Test Driven Development(TDD) in my below Medium article.
+
+
