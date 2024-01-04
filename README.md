@@ -1,7 +1,7 @@
 # TDD-PasswordValidator
-Program that prompts a user to enter a password and checks the strength of the provided password using **Test-Driven Development(TDD)**.
+A program that prompts a user to enter a password and checks the strength of the provided password using **Test-Driven Development(TDD)**.
 
-The requirements are as follows:
+This program addresses the below requirements.
 
 1. A password must be at least 12 characters long and can ONLY include the following.
 
